@@ -1,0 +1,49 @@
+*{
+   margin:0;
+   padding: 0;
+   box-sizing: border-box;
+}
+nav{
+   border: 2px solid yellow;
+   border-radius: 0.2rem;
+   margin: 10 auto 5rem;
+   max-width: 3200px;
+}
+.dropbtn{
+   
+}
+h1
+   {
+  color:black;  
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size:x-large;
+  }
+p
+   {
+    color:gray;
+    font-size: medium;
+    
+    font-family: 'sans-serif';
+   }
+   h2
+   {
+    color: darkred;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   }
+   p1
+   {
+    color:black;
+    font-size:medium;
+    font-family: 'sans-serif';
+   }
+*button
+{
+ background-color: burlywood;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ box-sizing: width=100rem; height: 100rem;
+}
+*html
+{
+   margin: top 0;
+   padding: 0;
+}
